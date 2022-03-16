@@ -1,0 +1,6 @@
+framework module Pods_edtechMVVM {
+  umbrella header "Pods-edtechMVVM-umbrella.h"
+
+  export *
+  module * { export * }
+}
